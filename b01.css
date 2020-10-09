@@ -1,0 +1,30 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.bacground{
+    width: 100%;
+    height: 400px;
+    background-image: url(img/bacgrou.jpg) ;
+    background-repeat: repeat-y;
+    
+}
+.bacground h1{
+    color:white;
+    text-align: center;
+    background-color: green;
+    font-size: 40px;
+    width: 900px;
+    margin: 20px auto;
+}
+.bacground p{
+    text-align:justify;
+    padding-left: 400px;
+    color: blue;
+    font-size: 30px;
+    padding-top: 30px;   
+}
+#color{
+    background-color: yellow;
+    font-size: 35px;
+}
